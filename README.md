@@ -4,6 +4,7 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**AGENT**](AGENT/) | *Why building a company AI is harder than you think* | The 6-step checklist that turns "a model with our logo" into a company AI you can trust |
 | [**GPU**](GPU/) | *You bought a GPU to run AI locally…* | 3 copy-paste prompts to size your AI setup + a memory cheat sheet |
 | [**LOCK**](LOCK/) | *Your AI coding agent can read your passwords* | The exact settings file that blocks your agent from reading `.env`, plus 3 extra safety steps |
 | [**ECC**](ECC/) | *One developer open-sourced an AI engineering team* | The link to ECC, the 2 install commands and how to use it |
