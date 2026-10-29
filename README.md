@@ -4,6 +4,7 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**ERASE**](ERASE/) | *Websites are selling your address* | The 3 prompts to get Claude to remove your info from people-search sites, and what you still do yourself |
 | [**MOTION**](MOTION/) | *AI can make your motion graphics now* | The HyperFrames setup guide: link, 2 install commands and 5 starter prompts |
 | [**TWIN**](TWIN/) | *Someone open-sourced an entire voice studio* | The official VoiceStudio link, how to install it, and the license check to do first |
 | [**AGENT**](AGENT/) | *Why building a company AI is harder than you think* | The 6-step checklist that turns "a model with our logo" into a company AI you can trust |
