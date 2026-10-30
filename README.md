@@ -4,6 +4,7 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**GROW**](GROW/) | *What if your Instagram had its own employee?* | The free 13-skill Instagram pack for Claude: the link, 3 ways to install, and the voice file to fill in first |
 | [**ONE**](ONE/) | *You don't need 10 AI agents. You need one.* | The one-agent setup: a rulebook template, a starter skill, connectors and helpers, for Claude Code and the Claude app |
 | [**ERASE**](ERASE/) | *Websites are selling your address* | The 3 prompts to get Claude to remove your info from people-search sites, and what you still do yourself |
 | [**MOTION**](MOTION/) | *AI can make your motion graphics now* | The HyperFrames setup guide: link, 2 install commands and 5 starter prompts |
