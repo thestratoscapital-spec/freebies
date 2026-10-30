@@ -4,6 +4,7 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**JOBS**](JOBS/) | *He applied to 68 jobs and got 12 interviews.* | career-ops, the free AI job hunter for Claude Code: the link, 3 ways to install, how to use it and what it never does |
 | [**GROW**](GROW/) | *What if your Instagram had its own employee?* | The free 13-skill Instagram pack for Claude: the link, 3 ways to install, and the voice file to fill in first |
 | [**ONE**](ONE/) | *You don't need 10 AI agents. You need one.* | The one-agent setup: a rulebook template, a starter skill, connectors and helpers, for Claude Code and the Claude app |
 | [**ERASE**](ERASE/) | *Websites are selling your address* | The 3 prompts to get Claude to remove your info from people-search sites, and what you still do yourself |
