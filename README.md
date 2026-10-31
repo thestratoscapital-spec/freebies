@@ -4,6 +4,7 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**BUILD**](BUILD/) | *Ten free GitHub projects you can build a real product on* | All 10 repos from the video with links, what each one does, and the license check (8 MIT/Apache, 2 AGPL) |
 | [**MAPS**](MAPS/) | *Pick any business, in any city in America* | Google Maps Scraper: the free open-source tool that turns a Google Maps search into a spreadsheet, with 3 ways to run it and how to get emails |
 | [**ODDS**](ODDS/) | *Imagine learning to day trade without risking a dollar* | The free Day Trader skill for Claude: the link, how to install it, the 11 skills, and how to practise safely on paper money |
 | [**TEAM**](TEAM/) | *Claude just became your YouTube team* | The YouTube Agent Skill: 11 free Claude skills for scripts, thumbnails, edits and finding what's working, with 3 ways to install and what to type first |
