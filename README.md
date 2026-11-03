@@ -4,6 +4,8 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**CHEAT**](CHEAT/) | *These three GitHub repos make the internet feel like a cheat code* | Lightpanda, The Book of Secret Knowledge and Public APIs: links, what each one is, and the license note |
+| [**SPEED**](SPEED/) | *Your vibe-coded app feels fast on your computer…* | The full speed checklist for real phones, with a copy-paste Claude prompt for each step |
 | [**BUILD**](BUILD/) | *Ten free GitHub projects you can build a real product on* | All 10 repos from the video with links, what each one does, and the license check (8 MIT/Apache, 2 AGPL) |
 | [**MAPS**](MAPS/) | *Pick any business, in any city in America* | Google Maps Scraper: the free open-source tool that turns a Google Maps search into a spreadsheet, with 3 ways to run it and how to get emails |
 | [**ODDS**](ODDS/) | *Imagine learning to day trade without risking a dollar* | The free Day Trader skill for Claude: the link, how to install it, the 11 skills, and how to practise safely on paper money |
