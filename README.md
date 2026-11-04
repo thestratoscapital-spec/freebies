@@ -4,6 +4,9 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**MEMORY**](MEMORY/) | *Claude Code forgets everything.* | Claude-Mem: the link, the setup steps, what the installer asks, and how to keep secrets out |
+| [**SLOP**](SLOP/) | *Your AI built your website… and everyone can tell.* | Hallmark + Impeccable: both links, the exact install commands and how to use each |
+| [**USERS**](USERS/) | *Your app is live… and your user count still says zero* | Your launch week: 7 places in order, cost and rules for each, plus a copy-and-edit launch post for every one |
 | [**CHEAT**](CHEAT/) | *These three GitHub repos make the internet feel like a cheat code* | Lightpanda, The Book of Secret Knowledge and Public APIs: links, what each one is, and the license note |
 | [**SPEED**](SPEED/) | *Your vibe-coded app feels fast on your computer…* | The full speed checklist for real phones, with a copy-paste Claude prompt for each step |
 | [**BUILD**](BUILD/) | *Ten free GitHub projects you can build a real product on* | All 10 repos from the video with links, what each one does, and the license check (8 MIT/Apache, 2 AGPL) |
