@@ -4,6 +4,8 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**BILL**](BILL/) | *What if one night of traffic sent you a bill for thousands of dollars?* | The 7 money leaks in AI-built apps, how to stop each, and a Claude prompt that checks your code |
+| [**DOORS**](DOORS/) | *Someone changes one number in your URL and sees another customer's invoice* | The Claude prompt that checks all 7 security doors in your app, plus what to do next |
 | [**HARVEY**](HARVEY/) | *An AI agent that finds your customers.* | Harvey: the link, what you need, the setup, and the rules for cold email |
 | [**MEMORY**](MEMORY/) | *Claude Code forgets everything.* | Claude-Mem: the link, the setup steps, what the installer asks, and how to keep secrets out |
 | [**SLOP**](SLOP/) | *Your AI built your website… and everyone can tell.* | Hallmark + Impeccable: both links, the exact install commands and how to use each |
