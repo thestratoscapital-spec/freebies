@@ -4,6 +4,7 @@ Commented a keyword on one of my videos? Your freebie is here. Tap the one you n
 
 | Keyword | Video | What you get |
 |---|---|---|
+| [**HARVEY**](HARVEY/) | *An AI agent that finds your customers.* | Harvey: the link, what you need, the setup, and the rules for cold email |
 | [**MEMORY**](MEMORY/) | *Claude Code forgets everything.* | Claude-Mem: the link, the setup steps, what the installer asks, and how to keep secrets out |
 | [**SLOP**](SLOP/) | *Your AI built your website… and everyone can tell.* | Hallmark + Impeccable: both links, the exact install commands and how to use each |
 | [**USERS**](USERS/) | *Your app is live… and your user count still says zero* | Your launch week: 7 places in order, cost and rules for each, plus a copy-and-edit launch post for every one |
